@@ -23207,7 +23207,6 @@
   <tile id="307">
    <properties>
     <property name="collides" type="bool" value="false"/>
-    <property name="start" value="toSilent"/>
    </properties>
   </tile>
   <tile id="308">
@@ -23288,7 +23287,6 @@
   <tile id="323">
    <properties>
     <property name="collides" type="bool" value="false"/>
-    <property name="start" value="toSilent"/>
    </properties>
   </tile>
   <tile id="324">
@@ -40792,7 +40790,7 @@
  </layer>
  <layer id="30" name="beamSilent" width="150" height="100">
   <properties>
-   <property name="exitUrl" value="https://virtual-office.telekom.de/_/global/maxgrrs.github.io/attic/maps/attic_map.json#toSilent"/>
+   <property name="exitUrl" value="https://play.workadventu.re/_/global/maxgrrs.github.io/attic/maps/attic_map.json#Ruhezone"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

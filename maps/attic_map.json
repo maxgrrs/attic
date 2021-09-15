@@ -271,7 +271,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/virtual-office.telekom.de\/_\/global\/maxgrrs.github.io\/attic\/maps\/attic_map.json#toSilent"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/maxgrrs.github.io\/attic\/maps\/attic_map.json#Ruhezone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -42211,11 +42211,6 @@
                          "name":"collides",
                          "type":"bool",
                          "value":false
-                        }, 
-                        {
-                         "name":"start",
-                         "type":"string",
-                         "value":"toSilent"
                         }]
                 }, 
                 {
@@ -42360,11 +42355,6 @@
                          "name":"collides",
                          "type":"bool",
                          "value":false
-                        }, 
-                        {
-                         "name":"start",
-                         "type":"string",
-                         "value":"toSilent"
                         }]
                 }, 
                 {
