@@ -58,7 +58,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"frametraxx_preview_Walking-on-Air.mp3"
+                 "value":"..\/frametraxx_preview_Walking-on-Air.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
