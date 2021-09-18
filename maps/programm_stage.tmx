@@ -39208,7 +39208,7 @@
  <layer id="31" name="digitizeRoom" width="150" height="100" visible="0">
   <properties>
    <property name="jitsiRoom" value="Attic"/>
-   <property name="webexSpace" value="Y2lzY29zcGFyazovL3VzL1JPT00vNDY5M2MzOTAtMmU1Yy0xMWViLTgwNTMtYWRiNjlhZWQwMzRh"/>
+   <property name="webexSpace" value="Y2lzY29zcGFyazovL3VzL1JPT00vODk4NTc2MzAtMTZmMC0xMWVjLTk4NTctOGZmYWQ3NmU2MTU4"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
