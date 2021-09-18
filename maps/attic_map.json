@@ -23,7 +23,7 @@
                  "value":"https:\/\/attic-event.com"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -46,7 +46,7 @@
                  "value":"Y2lzY29zcGFyazovL3VzL1JPT00vNDY5M2MzOTAtMmU1Yy0xMWViLTgwNTMtYWRiNjlhZWQwMzRh"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -69,7 +69,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -87,7 +87,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -105,7 +105,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -133,7 +133,7 @@
                  "value":"http:\/\/mp3channels.webradio.antenne.de\/chillout"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -151,7 +151,7 @@
                  "value":"https:\/\/attic-event.com\/assets\/video\/21-05-05_ATTIC_V5.mp4"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":150,
          "x":0,
          "y":0
@@ -169,7 +169,7 @@
                  "value":"https:\/\/sdk.companywebcast.com\/sdk\/p2pplayer\/?id=73e7501f-68e4-4186-8970-ee3c6df3445e&display=122&identificationToken=NTS6ZbPTxaXu4ocst9l4qArR068BNalc3GGRmaf_SXZwJdaKqn_pNta_NOxEdtcjGiWvrQP8zuqHeiIY5YnjvFOnTy67zZ98kjKOB8DZsqSxbRObmacoN3iRnwWftdlG_OyHXwD6EhCgkhvyh6Il43gIhvapm_qjS1McDV6apj8YwWN6DvFKG---PL76yJEhOJC-3avcGPW7PCRQgA8-Ato29VIkUpj6tL0NRNp-fKTuw06bsiQ1Qw&customBtnColor=E20074,4f082c&customVideoAndSlideBackgroundColor=1D3849"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -187,7 +187,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -199,7 +199,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -211,7 +211,7 @@
          "name":"beach",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -223,7 +223,7 @@
          "name":"river",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -235,7 +235,7 @@
          "name":"directOnBottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -247,7 +247,7 @@
          "name":"chairs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -259,7 +259,7 @@
          "name":"tables",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -271,7 +271,7 @@
          "name":"bar",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -283,7 +283,7 @@
          "name":"walls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -295,7 +295,7 @@
          "name":"stage",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -313,7 +313,7 @@
                  "value":"#beamStation"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -325,7 +325,7 @@
          "name":"boards",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -337,7 +337,7 @@
          "name":"accecoirs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
