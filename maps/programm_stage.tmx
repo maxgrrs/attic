@@ -54977,7 +54977,7 @@
  </layer>
  <layer id="17" name="stream_main" width="150" height="100">
   <properties>
-   <property name="openWebsite" value=" https://channel.royalcast.com/dtag/#!/dtag/20210922_3"/>
+   <property name="openWebsite" value="https://channel.royalcast.com/dtag/#!/dtag/20210922_3"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
